@@ -1,8 +1,8 @@
 ## Project
-name: tasty_bytes
+name: schunnallnutt_test_dbt_projects
 version: "1.0"
 config-version: 2
-profile: tasty_bytes
+profile: schunnallnutt_test_dbt_projects
 
 ## Sources
 model-paths: [models]
